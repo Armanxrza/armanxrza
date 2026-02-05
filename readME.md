@@ -5,7 +5,6 @@
 <h1 align="center">
   Arman Reza
   <sup style="font-size:0.35em; font-weight:400; color:#8c959f;">
-    PRO
   </sup>
 </h1>
 
