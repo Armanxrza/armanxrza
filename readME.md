@@ -4,6 +4,14 @@
 
 <h1 align="center">Arman Reza</h1>
 <h3 align="center">Cybersecurity Thinker • Student • Community-Focused Technologist</h3>
+<p align="center">
+  <strong>
+    <span style="color:#d73a49;">
+      Status: On Vacation
+    </span>
+  </strong>
+</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/armanxreza/" target="_blank">
@@ -44,26 +52,6 @@ Whether advising institutions, empowering youth, or contributing to community-le
 - Community awareness & youth empowerment  
 - Translating technical security concepts into practical guidance  
 - Building disciplined, ethical approaches to digital safety  
-
----
-
-## Strengths
-
-- Strong execution bias with analytical depth  
-- Adaptive leadership in uncertain environments  
-- Ability to simplify complex security problems  
-- Calm, structured thinking under pressure  
-- Team-oriented and mission-driven  
-
----
-
-## Self-Awareness (Cons)
-
-- Can become ego-driven when deeply invested in outcomes  
-- Prioritizes execution so strongly that diplomacy may follow later  
-- Tends to make everything else secondary when focused on a mission  
-
-(Self-awareness is part of security.)
 
 ---
 
