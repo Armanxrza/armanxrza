@@ -4,9 +4,9 @@
 
 <h1 align="center">
   Arman Reza
-  <sub style="font-size:0.45em; font-weight:500; color:#57606a;">
-    &nbsp;Professional Account
-  </sub>
+  <sup style="font-size:0.35em; font-weight:400; color:#8c959f;">
+    official
+  </sup>
 </h1>
 
 
