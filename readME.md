@@ -1,13 +1,9 @@
 <!-- ========================= -->
 <!--   Arman Reza | Profile   -->
 <!-- ========================= -->
+<h1 align="center">Arman Reza</h1>
 
-<h1 align="center">
-  Arman Reza
-  > Continuously evolving.
-  <sup style="font-size:0.35em; font-weight:400; color:#8c959f;">
-  </sup>
-</h1>
+<p align="center"><em>Professional account.</em></p>
 
 
 <h3 align="center">Cybersecurity Thinker • Student • Community-Focused Technologist</h3>
