@@ -67,22 +67,6 @@ Whether advising institutions, empowering youth, or contributing to community-le
 
 ---
 
-## Current Focus
-
-- Deepening foundations in cybersecurity & systems thinking  
-- Expanding applied research and real-world security understanding  
-- Learning to balance intensity with sustainability  
-- Building projects that create measurable social impact  
-
----
-
-## Philosophy
-
-> Security is not just about defending systems.  
-> It is about **protecting people, preserving trust, and enabling resilience**.
-
----
-
 <p align="center">
   <sub>Discipline • Responsibility • Impact</sub>
 </p>
