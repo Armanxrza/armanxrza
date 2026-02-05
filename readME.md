@@ -2,8 +2,8 @@
 <!--   Arman Reza | Profile   -->
 <!-- ========================= -->
 <h1 align="center">Arman Reza</h1>
+> Professional account.
 
-<p align="center"><em>Professional account.</em></p>
 
 
 <h3 align="center">Cybersecurity Thinker • Student • Community-Focused Technologist</h3>
